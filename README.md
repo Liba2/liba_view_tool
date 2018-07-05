@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install liba_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+@copyright = LibaViewTool::Renderer.copyright "Liba", "All rights reserved"
+```
 
 ## Development
 
